@@ -1,7 +1,5 @@
-jQuery-social-media
-===================
-
-A collection of social sharing and social feeds plugins for jQuery.
+Social Media Sharing and Social Feed Plugins for jQuery
+================
 
 jQuery-socialist
 =================
